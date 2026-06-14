@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743874364936",
+    "project_id": "live-location-project-b0dcf",
+    "storage_bucket": "live-location-project-b0dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743874364936:android:e1dc6047bfc7714b5d33bd",
+        "android_client_info": {
+          "package_name": "com.example.live_tracking_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlywYT8ME4lBnfZ6UBsHaPVIlHpUzm0eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
