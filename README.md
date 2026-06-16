@@ -35,20 +35,19 @@ Tech Stack
 Project Structure
 
 lib/
-├── admin_side/
-│ ├── login.dart
-│ ├── register.dart
-│ ├── dashboard.dart
-│ ├── team_track.dart
-│ └── invite_team.dart
-│
-├── team_members/
-│ ├── team_mem_login.dart
-│ └── share_location.dart
-│
-├── session_checker.dart
-├── routes.dart
-└── main.dart
+- admin_side
+  - login.dart
+  - register.dart
+  - dashboard.dart
+  - team_track.dart
+  - invite_team.dart
+- team_members
+  - share_location.dart
+  - team_mem_login.dart
+- firebase_options.dart
+- main.dart
+- routes.dart
+- session_checker.dart
 
 How It Works
 
@@ -114,5 +113,7 @@ Future Improvements
 - Geofencing
 
 Author:
+
 Aaditya Keshi
+
 Flutter Developer
